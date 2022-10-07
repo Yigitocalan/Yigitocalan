@@ -1,12 +1,12 @@
-<h1 align="center">Hi there 👋, I'm YIGIT OCALAN</h1>
+h1 align="center">Hi there 👋, I'm YIGIT OCALAN</h1>
 <h3 align="center">I am a 3rd year management information systems student in turkey</h3>
 
 - 📫 How to reach me **ocalanyigit01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/feed/?trk=404_page" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/feed/?trk=404_page" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/yigitocalann/?next=%2f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/yigitocalann/?next=%2f" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/yi%c4%9fit-%c3%b6calan-0a2378252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yi%c4%9fit-%c3%b6calan-0a2378252/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/yigitocalann/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/yigitocalann/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucltziev2cchjzdqtwozujww" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucltziev2cchjzdqtwozujww" height="30" width="40" /></a>
 </p>
 
