@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm YIGIT OCALAN</h1>
 <h3 align="center">I am a 3rd year management information systems student in turkey</h3>
 
-- 📫 How to reach me **yigitson7@gmail.com**
+- 📫 How to reach me **ocalanyigit01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
